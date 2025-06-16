@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/rudrapatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rudrapatel" height="30" width="40" /></a>
+<a href="https://dev.to/rudrapatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rudrapatel" height="30" width="40" /></a>
 <a href="https://twitter.com/rudrapatel1054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudrapatel1054" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rudra-patel-a1914a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-patel-a1914a234" height="30" width="40" /></a>
 <a href="https://instagram.com/rudra__1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudra__1601" height="30" width="40" /></a>
