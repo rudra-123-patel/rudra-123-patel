@@ -104,8 +104,7 @@
 ---
 
 
-<h2 align="center">📈 GitHub Activity</h2>
-
+<h2 📈 GitHub Activity</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rudra-123-patel" alt="GitHub Streak" /></a>
 ---
 
