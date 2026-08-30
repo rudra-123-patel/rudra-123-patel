@@ -103,14 +103,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra-123-patel&show_icons=true&theme=transparent" alt="Rudra's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-123-patel&layout=compact&theme=transparent" alt="Rudra's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-123-patel&theme=github-dark" alt="Rudra's GitHub Activity Graph" />
 </p>
 
 ---
