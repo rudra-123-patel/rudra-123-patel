@@ -120,8 +120,6 @@
 ### 🧩 Featured Projects
 
 * 🌐 **Social Drive** — Decentralized storage platform
-* ✈️ **Flight Ticket Booking System** — React + Tailwind CSS
-* 🎓 **Student Course Portal** — Web-based course management system
 * 🛒 **Shopping Cart** — React-based shopping experience
 * 🔐 **Role-Based Authentication** — Authentication & authorization system
 
