@@ -103,16 +103,14 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-123-patel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudra-123-patel&show_icons=true&theme=transparent" alt="Rudra's GitHub Stats" />
 </p>
 
-<br><br><br>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-123-patel&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-123-patel&layout=compact&theme=transparent" alt="Rudra's Top Languages" />
 </p>
 
 ---
