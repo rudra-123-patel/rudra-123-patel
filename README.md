@@ -106,10 +106,7 @@
 
 <h2 align="center">📈 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-123-patel&theme=github-dark" alt="Rudra's GitHub Activity Graph" />
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rudra-123-patel" alt="GitHub Streak" /></a>
 ---
 
 ### 🧩 Featured Projects
